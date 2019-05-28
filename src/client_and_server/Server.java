@@ -11,7 +11,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import javax.swing.*;
 
-public class Server extends JFrame {
+public class Server extends JFrame  {
 
  // keywords
     private static final String SET_NAME = "__setName";
